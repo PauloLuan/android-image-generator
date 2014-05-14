@@ -7,11 +7,13 @@ Automatically generate all app market icons from a single image (iOS + Android).
 First download and install GraphicsMagick or ImageMagick. In Mac OS X, you can simply use Homebrew and do:
 
 `brew install imagemagick`
+
 `brew install graphicsmagick`
 
 In Ubuntu use tha apt-get:
 
 `sudo apt-get install imagemagick`
+
 `sudo apt-get install graphicsmagick`
 
 Then, install the dependencies of the project:

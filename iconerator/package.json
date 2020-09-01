@@ -10,7 +10,7 @@
   "author": "Alex Ehrnschwender <alex@crunchdevelopment.com> (http://alexehrnschwender.com)",
   "dependencies": {
     "commander": "~2.0.0",
-    "gm": "~1.13.3",
+    "gm": "~1.23.1",
     "underscore": "~1.5.2"
   },
   "engines": {
